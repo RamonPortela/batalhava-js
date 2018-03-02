@@ -1,0 +1,23 @@
+{
+  "name": "batalha-naval-js",
+  "version": "0.0.1",
+  "description": "batalha naval ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamonPortela/batalhava-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamonPortela/batalhava-js/issues"
+  },
+  "homepage": "https://github.com/RamonPortela/batalhava-js#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
